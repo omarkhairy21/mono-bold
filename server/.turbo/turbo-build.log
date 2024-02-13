@@ -1,0 +1,6 @@
+
+> server@1.0.0 build E:\COoOde\mono-bold\server
+> tsc
+
+src/index.ts(3,25): error TS2307: Cannot find module 'shared-types' or its corresponding type declarations.
+ ELIFECYCLE  Command failed with exit code 2.

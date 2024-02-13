@@ -1,0 +1,13 @@
+{
+  "name": "mono-bold",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "turbo build:app",
+    "build:packages": "turbo build:packages"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
